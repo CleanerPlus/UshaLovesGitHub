@@ -1,1 +1,2 @@
 D:\TestRepo\TestApplication\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+D:\TestRepo\UshaLovesGitHub\TestApplication\bin\Debug\TestApplication.exe.config
